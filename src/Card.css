@@ -1,0 +1,22 @@
+.card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+  }
+  
+  .card-items {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card-item {
+    text-align: center;
+    width: 20%;
+  }
+  
+  .card-item img {
+    width: 100px;
+    height: 100px;
+  }
+  

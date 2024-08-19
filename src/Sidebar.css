@@ -1,0 +1,41 @@
+span {
+    font-size: 0.7rem;
+}
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.nav-cart i{
+      font-size: 1.8rem;
+}
+
+.panel{
+    background-color: #232842;
+    height: 40px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-all{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.panel-ops{
+    display: flex;
+    width: 70%;
+    font-size: 0.85rem;
+}
+.panel-ops p{
+       margin-left: 10px;
+}
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}

@@ -1,0 +1,22 @@
+html, body {
+  overflow-x: hidden;
+}
+
+
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.card {
+  flex: 1;
+  margin: 10px;
+  min-width: 200px;
+  box-sizing: border-box;
+}
+.card {
+  height: auto;
+}
